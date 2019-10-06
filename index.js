@@ -1,10 +1,8 @@
-// Initial Function Here
-// This will be entry point of the library
+module.exports = (length) => {
 
-const dummy = () => {
-    // Your code here
-}
+  length = length || 3;
 
-
-// Export the functions
-module.exports = dummp;
+  return Math.round(new Date().getTime() * Math.random())
+    .toString(16)
+    .substr(0, length);
+};
