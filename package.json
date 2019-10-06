@@ -15,12 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/arshadkazmi42/nlen-num.git"
   },
-  "keywords": [],
+  "keywords": [
+    "random number",
+    "generator",
+    "length",
+    "random number generator"
+  ],
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "eslint": "^5.11.1",
-    "eslint-config-strongloop": "^2.1.0"
+    "eslint": "^6.5.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^6.2.1"
   },
   "author": "Arshad Kazmi",
   "license": "MIT"
