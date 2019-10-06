@@ -2,7 +2,7 @@
 
 [![Build](https://img.shields.io/travis/com/arshadkazmi42/nlen-num.svg)](https://travis-ci.com/arshadkazmi42/nlen-num/)
 
-Generate random number of n length
+Generate random number of n length.
 
 ## Install
 
@@ -18,12 +18,18 @@ const nLenNum = require('nlen-num');
 
 console.log(nLenNum(3));
 console.log(nLenNum(4));
+console.log(nLenNum());
+console.log(nLenNum(0));
 
 // OUTPUT
 // 132
 // 4323
+// 562
+// 456
 
 ```
+
+> Note: Default length is 3, if there is no length input passed
 
 ## Contributing
 

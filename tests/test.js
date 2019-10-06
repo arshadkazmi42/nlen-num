@@ -1,13 +1,17 @@
 const { expect } = require('chai');
 
-// Import your code which to be tested
+const nLenNum = require('../index');
 
-// Initialize static data
 
-/**
-describe('description of the test', () => {
-  it('details of the specific test', () => {
-    expect(0).to.equal(0);
+describe('Validates random number generator', () => {
+  it('should generate 3 length ', () => {
+    expect(nLenNum().length).to.equal(3);
+    expect(nLenNum(3).length).to.equal(3);
+  });
+  it('should generate 4 length ', () => {
+    expect(nLenNum(4).length).to.equal(4);
+  });
+  it('should generate 0 length ', () => {
+    expect(nLenNum(0).length).to.equal(3);
   });
 });
-**/
