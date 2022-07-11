@@ -1,6 +1,6 @@
 # nlen-num
 
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/nlen-num.svg)](https://travis-ci.com/arshadkazmi42/nlen-num/)
+[![Build](https://github.com/arshadkazmi42/nlen-num/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/nlen-num/actions/workflows/nodejs.yml)
 
 Generate random number of n length.
 
