@@ -8,9 +8,6 @@
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/nlen-num.svg)](https://github.com/arshadkazmi42/nlen-num/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/nlen-num.svg)](https://github.com/arshadkazmi42/nlen-num/commits/master)
 
-
-[![Build](https://github.com/arshadkazmi42/nlen-num/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/nlen-num/actions/workflows/nodejs.yml)
-
 Generate random number of n length.
 
 ## Install
