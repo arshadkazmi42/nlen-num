@@ -1,5 +1,14 @@
 # nlen-num
 
+[![Build](https://github.com/tuhinmallick/nlen-num/actions/workflows/nodejs.yml/badge.svg)](https://github.com/tuhinmallick/nlen-num/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/nlen-num.svg)](https://www.npmjs.com/package/nlen-num)
+[![NPM Downloads](https://img.shields.io/npm/dt/nlen-num.svg)](https://www.npmjs.com/package/nlen-num)
+[![Github Repo Size](https://img.shields.io/github/repo-size/tuhinmallick/nlen-num.svg)](https://github.com/tuhinmallick/nlen-num)
+[![LICENSE](https://img.shields.io/npm/l/nlen-num.svg)](https://github.com/tuhinmallick/nlen-num/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/tuhinmallick/nlen-num.svg)](https://github.com/tuhinmallick/nlen-num/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/tuhinmallick/nlen-num.svg)](https://github.com/tuhinmallick/nlen-num/commits/master)
+
+
 [![Build](https://github.com/arshadkazmi42/nlen-num/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/nlen-num/actions/workflows/nodejs.yml)
 
 Generate random number of n length.
